@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Homework 1</string>
+    <string name="text_view">Куда идём</string>
+    <string name="edit_text">Мы с пятачком</string>
+    <string name="button">Большой большой секрет</string>
+    <string name="switch_text">И не расскажем мы о нем</string>
+    <string name="position">Ваша должность</string>
+    <string name="enter_info">Введите ваши данные:</string>
+    <string name="name">Имя</string>
+    <string name="phone">Телефон</string>
+    <string name="salary">Ожидаемая зарплата</string>
+    <string name="password">Пароль</string>
+    <string name="email">Email</string>
 </resources>
